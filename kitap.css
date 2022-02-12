@@ -1,0 +1,48 @@
+
+/**************Sayfanın Genel Kuralı*********/
+
+body {
+
+    background-color: #ACB992;
+    color: #464E2E;
+}
+
+/**************Üst Menü**********************/
+
+nav {
+    border: 8px ridge #464E2E;
+    background-image: url(book.jpg);
+    background-repeat: no-repeat;
+    padding: 30px;
+}
+
+h1 {
+    font-size: xx-large;
+    margin-left: 200px;
+    margin-top: 200px;
+    color: #362706;
+    display: inline;
+    
+}
+
+a {text-decoration: none;}
+
+a {color:#464E2E;}
+
+a:hover {color: #E9E5D6 ;}
+
+ul {
+    margin-left: 300px;
+    list-style-type: none;
+    display: inline;
+}
+
+li {
+    margin-right: 30px;
+    display: inline;
+    text-transform: uppercase;
+}
+.sosyalmedya {
+    list-style-type: square;
+    display: block;
+}
